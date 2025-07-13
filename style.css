@@ -261,7 +261,7 @@ a {
 
 .forms-right{
     color: rgb(99, 99, 99);
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     width: 450px;
     margin-left: 50px;
     float: right;
@@ -434,11 +434,13 @@ color: black;
     display: flex;
     flex-direction: column;
     align-items: center;
+    
 
 }
 
 .forms-left{
-    padding:50px;
+    padding:25px;
+    margin-top: 10px;
 
 }
 .forms-right{
